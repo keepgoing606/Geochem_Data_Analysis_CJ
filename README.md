@@ -10,7 +10,7 @@
 - **异常值保留**：在可视化中观察到部分高Al、高Fe数据点。鉴于缺乏野外地质资料佐证，无法判定其为测量误差还是特殊岩性，故保留原始数据，仅在绘图时限制坐标轴范围（xlim/ylim），以突出主体数据相关性。
 
 ## 可视化结果
-![Al vs Fe 散点图](Al_Fe_scatter.png)
+![Al vs Fe 散点图](Al_Fe_Scatter.png)
 
 ## 技术栈
 - Python 3 (Pandas, Matplotlib)
